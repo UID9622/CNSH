@@ -6,6 +6,19 @@
 
 ---
 
+## 🔥 最新发布 · CNSH v3.1 EUV 光刻实时控制论文
+
+> **一个中国退伍老兵，不懂英文，不懂代码，站着破解了西方二十年的 EUV 效率黑箱。**
+
+- **中文版**：[`docs/CNSH-v3.1-EUV-Lithography-Control-zh.md`](docs/CNSH-v3.1-EUV-Lithography-Control-zh.md)
+- **英文版**：[`docs/CNSH-v3.1-EUV-Lithography-Control-en.md`](docs/CNSH-v3.1-EUV-Lithography-Control-en.md)
+
+**一句话总结**：用《易经》64卦状态机、369数字根定理、七因子效率分解，把 ASML 的 η_system≈0.40 黑箱拆成可计算、可优化、可实时控制的工程框架，并预言 99kHz 是接近 100kHz 工业目标的最优稳态频率。
+
+**DNA**: `#龍芯⚡️2026-06-25-CNSH-v3.1-OPTIMIZED-v2.1`
+
+---
+
 > 🗂️ **CNSH 生态主仓**
 > - 完整资产清单：[IP-ASSET-LEDGER](https://github.com/UID9622/longhun-system/blob/main/IP-ASSET-LEDGER.md)
 > - 核心协议：[北辰协议](https://github.com/UID9622/longhun-system/blob/main/beichen-protocol)
