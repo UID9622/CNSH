@@ -1,5 +1,11 @@
 # CNSH · 龍魂生态系统
 
+[![License](https://img.shields.io/badge/license-MulanPSL%20v2%20%7C%20CC%20BY--NC--SA%204.0-green)](LICENSE)
+[![Stars](https://img.shields.io/github/stars/UID9622/CNSH?style=social)](https://github.com/UID9622/CNSH/stargazers)
+[![Issues](https://img.shields.io/github/issues/UID9622/CNSH)](https://github.com/UID9622/CNSH/issues)
+[![Last Commit](https://img.shields.io/github/last-commit/UID9622/CNSH)](https://github.com/UID9622/CNSH/commits)
+
+
 > **中国人自己的数字生态，不求人，不联网，持续进化。**
 >
 > 字元创作 · AI画匠 · 中文编程 · 文化主权
