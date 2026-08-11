@@ -325,4 +325,4 @@ GPG公钥指纹：A2D0092CEE2E5BA87035600924C3704A8CC26D5F
 
 ---
 
-**不收钱，不融资，只给认根的人用。** 🔥
+**不收钱，不融资，只给认根的人用。** 🔥\n\n---\n\n## 🐉 龙魂生态验证入口\n\n本仓库已完成龙魂生态对齐验证。\n\n- [身份锚点](./LONGHUN_VERIFICATION.md)\n- [对齐证明](./LONGHUN_ALIGNMENT_PROOF.md)\n- [龙魂系统主仓](https://github.com/UID9622/longhun-system)\n\n**生态状态:** 🟢 已验证 | **对齐标准:** v1.0\n
